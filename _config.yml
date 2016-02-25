@@ -1,0 +1,14 @@
+layout_spectrum: 0.2465091
+color:
+  saturation: 0.4808148
+  lightness: 0.4298339
+  brandStrength: 0.1673563
+  brandColors:
+    - '#CED0CF'
+    - '#7F9AA4'
+    - '#7F4B1F'
+    - '#F8BE79'
+    - '#6B1D11'
+  rhythmicContrast: 0.8682629
+typography_spectrum: 0.3990332
+name: restc
