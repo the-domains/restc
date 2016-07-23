@@ -1,14 +1,26 @@
-layout_spectrum: 0.2465091
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.3055854
 color:
-  saturation: 0.4808148
-  lightness: 0.4298339
-  brandStrength: 0.1673563
+  saturation: 0.4398496
+  brandStrength: 0.1423201
+  lightness: 0.6954887
   brandColors:
-    - '#CED0CF'
-    - '#7F9AA4'
-    - '#7F4B1F'
-    - '#F8BE79'
-    - '#6B1D11'
-  rhythmicContrast: 0.8682629
-typography_spectrum: 0.3990332
+    - '#D4D6D5'
+    - '#92B3BC'
+    - '#7A929C'
+    - '#786A61'
+    - '#6F4B3B'
+  rhythmicContrast: 0.7320086
+layout_spectrum: 0.2443609
 name: restc
